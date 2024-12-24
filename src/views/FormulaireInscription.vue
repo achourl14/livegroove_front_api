@@ -14,7 +14,7 @@ const newUser = ref<Utilisateur>({
   nom: "",
   prenom: "",
   dateDeNaissance: "",
-  id: 0,
+  // id: 0,
   // evenementMusicals: []
 });
 
